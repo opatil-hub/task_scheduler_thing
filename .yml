@@ -1,1 +1,2 @@
-
+- name: Profile Readme Stats
+  uses: opatil-hub/profile-readme-stats@v1
